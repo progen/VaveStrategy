@@ -1,0 +1,7 @@
+{
+  "name": "VAVE Strategic Inquiries",
+  "description": "AI-powered New Business framework for analyzing leads, calculating strategic metrics (Fame, Fun, Money, Strategy), and generating project templates.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
